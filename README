@@ -1,7 +1,9 @@
 libvariant
 ==========
 
-libvariant is an open-source c++ library that offers a safe discriminated union container of c++ basic types. It also offers conversion between these types.
+libvariant is an open-source c++ library that offers a safe discriminated union container of c++ basic types.
+
+It wraps a boost::variant (www.boost.org) and offers conversion functions to/from basic c++ types.
 
 libvariant is published at Github at: https://github.com/royfr00/libvariant
 
