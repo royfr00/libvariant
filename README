@@ -1,0 +1,7 @@
+libvariant
+==========
+
+libvariant is an open-source c++ library that offers a safe discriminated union container of c++ basic types. It also offers conversion between these types.
+
+libvariant is published at Github at: https://github.com/royfr00/libvariant
+
